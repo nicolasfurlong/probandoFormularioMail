@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #ededed;
+}
+
+form {
+    width: 700px;
+    margin: auto;
+    background-color: cadetblue;
+}
+
+input {
+    margin: 12px;
+    padding: 8px;
+    width: 660px;
+}
+
+textarea {
+    margin: 12px;
+    padding: 8px;
+    width: 660px;
+}
